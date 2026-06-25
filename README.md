@@ -98,8 +98,8 @@ I supported data preparation, cleansing, dashboarding, and analysis in a multina
 | [spirits-creative-image-enrichment](https://github.com/anabelengarciac/spirits-creative-image-enrichment) | Shows dataset enrichment for creative analysis workflows. |
 | [project-docs-health-monitor](https://github.com/anabelengarciac/project-docs-health-monitor) | Demonstrates documentation quality automation. |
 | [confluence-content-manager](https://github.com/anabelengarciac/confluence-content-manager) | Shows structured documentation management and standardization. |
-| [sprinklr](https://github.com/anabelengarciac/sprinklr) | Demonstrates social benchmarking workflow design using sanitized examples. |
-| [magento-commerce-rest](https://github.com/anabelengarciac/magento-commerce-rest) | Shows REST API diagnostic workflows for commerce operations. |
+| [social-benchmarking-workflow](https://github.com/anabelengarciac/social-benchmarking-workflow) | Demonstrates social benchmarking workflow design using sanitized examples. |
+| [commerce-api-diagnostics-skill](https://github.com/anabelengarciac/commerce-api-diagnostics-skill) | Shows REST API diagnostic workflows for commerce operations. |
 
 ## Education
 

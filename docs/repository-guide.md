@@ -38,12 +38,12 @@ Shows how documentation completeness and consistency can be monitored with a reu
 
 Shows documentation standardization and content-management automation.
 
-[magento-commerce-rest](https://github.com/anabelengarciac/magento-commerce-rest)
+[commerce-api-diagnostics-skill](https://github.com/anabelengarciac/commerce-api-diagnostics-skill)
 
 Shows REST API diagnostics for commerce operations using sanitized examples.
 
 ## Benchmarking Workflow
 
-[sprinklr](https://github.com/anabelengarciac/sprinklr)
+[social-benchmarking-workflow](https://github.com/anabelengarciac/social-benchmarking-workflow)
 
 Shows a sanitized social benchmarking proof of concept that translates business questions into repeatable API-backed analysis.
