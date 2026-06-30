@@ -32,9 +32,9 @@ flowchart LR
 
 | Area | What I Focus On | Portfolio Evidence |
 | --- | --- | --- |
-| ChatGPT Apps | Conversational tools connected to enterprise workflows through MCP-style connectors and embedded widgets. | [Enterprise ChatGPT Apps Showcase](https://github.com/anabelengarciac/enterprise-chatgpt-apps-showcase) |
+| ChatGPT Apps | Conversational tools connected to enterprise workflows through MCP-style connectors and embedded widgets. | [Enterprise ChatGPT Apps Portfolio](https://github.com/anabelengarciac/enterprise-chatgpt-apps-showcase) |
 | AI-assisted analytics | Reproducible workflows that combine data extraction, validation, enrichment, and business interpretation. | [Final Degree Project: AI Creative Analysis](https://github.com/anabelengarciac/spirits-ai-creative-analysis-tfg) |
-| Custom AI skills | Reusable Codex skills that automate recurring business tasks and make technical workflows easier to repeat. | [Skill Repository Collection](https://github.com/anabelengarciac?tab=repositories) |
+| Reusable AI workflows | Practical assistants that automate recurring business tasks and make technical workflows easier to repeat. | [Repository Collection](https://github.com/anabelengarciac?tab=repositories) |
 | Documentation governance | Tools that help teams keep project documentation structured, complete, and actionable. | [Project Docs Health Monitor](https://github.com/anabelengarciac/project-docs-health-monitor) |
 
 ## Featured Projects
@@ -51,15 +51,15 @@ A portfolio repository explaining my Bachelor's Thesis: an AI-assisted workflow 
 
 [Open project](https://github.com/anabelengarciac/spirits-ai-creative-analysis-tfg)
 
-### BigQuery Analyst Skill
+### BigQuery Analytics Assistant
 
-A reusable skill for exploring warehouse schemas, validating SQL, mapping business questions to data tables, and producing business-friendly analytical outputs.
+A reusable analytics workflow for exploring warehouse schemas, validating SQL, mapping business questions to data tables, and producing business-friendly analytical outputs.
 
-[Open skill](https://github.com/anabelengarciac/bigquery-skill)
+[Open workflow](https://github.com/anabelengarciac/bigquery-skill)
 
-### Creative Performance and Image Enrichment Skills
+### Creative Performance and Image Enrichment Workflows
 
-Two complementary skills created to support the final degree project workflow:
+Two complementary workflows created to support the final degree project workflow:
 
 - [Creative Performance AI](https://github.com/anabelengarciac/spirits-creative-performance-ai): exports, structures, filters, compares, and quality-checks paid media performance data.
 - [Creative Image Enrichment](https://github.com/anabelengarciac/spirits-creative-image-enrichment): enriches datasets with creative image URLs so performance records can be connected to visual analysis.
@@ -98,7 +98,7 @@ I supported data preparation, cleansing, dashboarding, and analysis in a multina
 | [spirits-creative-image-enrichment](https://github.com/anabelengarciac/spirits-creative-image-enrichment) | Shows dataset enrichment for creative analysis workflows. |
 | [project-docs-health-monitor](https://github.com/anabelengarciac/project-docs-health-monitor) | Demonstrates documentation quality automation. |
 | [confluence-content-manager](https://github.com/anabelengarciac/confluence-content-manager) | Shows structured documentation management and standardization. |
-| [social-benchmarking-workflow](https://github.com/anabelengarciac/social-benchmarking-workflow) | Demonstrates social benchmarking workflow design using sanitized examples. |
+| [social-benchmarking-workflow](https://github.com/anabelengarciac/social-benchmarking-workflow) | Demonstrates social benchmarking workflow design with anonymized business examples. |
 | [commerce-api-diagnostics-skill](https://github.com/anabelengarciac/commerce-api-diagnostics-skill) | Shows REST API diagnostic workflows for commerce operations. |
 
 ## Education
